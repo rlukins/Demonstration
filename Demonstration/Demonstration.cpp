@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n";
+    int number = 5;
+    string text = "Hello World!";
+    cout << text << endl;
     cout << "Next commit" << endl;
 }
